@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="shiftRightIcon.xpm">shiftRightIcon.xpm</file>
+    <file alias="shiftLeftIcon.xpm">shiftLeftIcon.xpm</file>
+    <file alias="gridIcon.xpm">gridIcon.xpm</file>
+    <file alias="cubeAxisPointerIcon.xpm">cubeAxisPointerIcon.xpm</file>
+    <file alias="solidCubeIcon.xpm">solidCubeIcon.xpm</file>
+    <file alias="wireCubeIcon.xpm">wireCubeIcon.xpm</file>
+    <file alias="texCubeIcon.xpm">texCubeIcon.xpm</file>
+    <file alias="vertexSnapIcon.xpm">vertexSnapIcon.xpm</file>
+    <file alias="vertexIcon.xpm">vertexIcon.xpm</file>
+    <file alias="refImgIcon.xpm">refImgIcon.xpm</file>
+    <file alias="arrowIcon.xpm">arrowIcon.xpm</file>
+    <file alias="qdocCloseIcon.xpm">qdocCloseIcon.xpm</file>
+    <file alias="qdocCheckIcon.xpm">qdocCheckIcon.xpm</file>
+    <file alias="qdocExpandIcon.xpm">qdocExpandIcon.xpm</file>
+    <file alias="lock.xpm">lock.xpm</file>
+    <file alias="addFolder.xpm">addFolder.xpm</file>
+    <file alias="denyFolder.xpm">denyFolder.xpm</file>
+    <file alias="removeFolder.xpm">removeFolder.xpm</file>
+    <file alias="extract.xpm">extract.xpm</file>
+    <file alias="include.xpm">include.xpm</file>
+    <file alias="remove.xpm">remove.xpm</file>
+    <file alias="packer.xpm">packer.xpm</file>
+    <file alias="folder.xpm">folder.xpm</file>
+    <file alias="file.xpm">file.xpm</file>
+</qresource>
+</RCC>

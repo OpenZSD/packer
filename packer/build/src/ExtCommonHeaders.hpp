@@ -1,0 +1,13 @@
+#pragma once
+#include <stdio.h>
+#include <cstdint>
+#include <memory>
+#include <vector>
+#include <string>
+#include <queue>
+#include <cmath>
+#include <functional>
+#include <set>
+#include <unordered_set>
+#include <array>
+#include <png++/png.hpp>
